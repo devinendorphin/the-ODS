@@ -49,6 +49,8 @@ These are not separate topics. They are one topic approached from many angles: *
 
 ### Towards a Substrate-Grounded Alignment (2026)
 **Repository:** https://github.com/devinendorphin/Towards-a-Substrate-Grounded-Alignment
+**Preprint (OSF):** https://osf.io/pq4v2/
+**DOI:** [confirm — activate via OSF if not yet minted]
 **Format:** GitHub repo + PDF preprint (OSF) + reference implementation in Python/PyTorch
 **License:** MIT
 
