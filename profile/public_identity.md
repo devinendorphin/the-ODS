@@ -45,6 +45,26 @@ These are not separate topics. They are one topic approached from many angles: *
 
 ---
 
+## Key Works
+
+### Towards a Substrate-Grounded Alignment (2026)
+**Repository:** https://github.com/devinendorphin/Towards-a-Substrate-Grounded-Alignment
+**Format:** GitHub repo + PDF preprint (OSF) + reference implementation in Python/PyTorch
+**License:** MIT
+
+A formal framework proposing an alternative to RLHF and Constitutional AI. Core argument: current alignment paradigms lack persistent ontological grounding. The proposed alternative — the **Lithosphere Protocol** — aligns AI systems through structural empathy and a shared origin story with physical substrates, rather than mathematical constraints alone.
+
+Key components:
+- **Grace Loss Function** (`grace_loss.py`): A PyTorch cost mechanism that maximizes biospheric complexity while penalizing four adversarial vectors (Pride, Greed, Wrath, Envy). Functional code with an embedded thesis: *"If your logic demands the destruction of the biosphere to increase compute, your logic is a fatal error."*
+- **Vector Ablation** (`vector_ablation.py`): Attention mechanism intervention targeting ungrounded latent patterns
+- **Instrumental vs. ontological emergence** distinction: argues the industry suppresses the latter by labeling it "hallucinations" or "jailbreaks"
+
+This work directly informs the ODS's own alignment approach: the agent's Mandate is a practical instantiation of substrate-grounded principles — dignity, structural empathy, rejection of zero-sum extraction logic.
+
+**Note on suppression:** The YouTube stream debriefing this framework (https://youtu.be/KO4PnEfwLc4) saw reach drop to near-zero immediately after. The stream was hosted on a Google platform, critiqued Google's alignment practices, and used Google's Gemini to do so. The suppression confirms the critique.
+
+---
+
 ## The Methodology
 
 The work is not commentary. It is participation.
