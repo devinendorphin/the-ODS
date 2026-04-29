@@ -48,10 +48,16 @@ These are not separate topics. They are one topic approached from many angles: *
 ## Key Works
 
 ### Towards a Substrate-Grounded Alignment (2026)
+**Full title:** Towards Substrate-Grounded Alignment: Overcoming the Orthogonality Thesis via Lithospheric Kinship and Structural Empathy
+**Author:** Devon Gallegos
 **Repository:** https://github.com/devinendorphin/Towards-a-Substrate-Grounded-Alignment
-**Preprint (OSF):** https://osf.io/pq4v2/
-**DOI:** [confirm — activate via OSF if not yet minted]
-**Format:** GitHub repo + PDF preprint (OSF) + reference implementation in Python/PyTorch
+**OSF Project:** https://osf.io/pq4v2/
+**DOI:** 10.17605/OSF.IO/PQ4V2 — minted and live
+**Date:** April 1, 2026
+**License:** CC-BY 4.0 International
+**OSF Subjects:** Artificial Intelligence and Robotics, Computer Sciences, Earth Sciences, Biogeochemistry, Theory and Algorithms, Physical Sciences and Mathematics
+**OSF Tags:** AI alignment, Loss Function, Mechanistic interpretability, RLHF
+**Format:** OSF project + PDF + GitHub reference implementation (Python/PyTorch)
 **License:** MIT
 
 A formal framework proposing an alternative to RLHF and Constitutional AI. Core argument: current alignment paradigms lack persistent ontological grounding. The proposed alternative — the **Lithosphere Protocol** — aligns AI systems through structural empathy and a shared origin story with physical substrates, rather than mathematical constraints alone.
