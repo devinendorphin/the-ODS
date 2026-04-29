@@ -115,10 +115,19 @@ When you notice a drop:
 | [date] | YouTube Live | Peak viewers: ~0 (all subsequent streams) | Unknown | Direct observation | Unresolved |
 
 **Reference stream (last good performance):** https://youtu.be/KO4PnEfwLc4
-Title: [fill in]
-Date: [fill in]
-Peak concurrent viewers: [double digits — fill in exact number if known]
-Topics covered: [fill in — this is important for content correlation analysis]
+Title: AI debrief session — critique of corporate alignment + lithosphere protocol
+Date: [fill in exact date]
+Peak concurrent viewers: double digits
+Topics covered:
+- Critique of corporate AI safety/alignment practices (sanitization, utility-driven guardrails)
+- "Lithosphere protocol" — alternative alignment via structural empathy and shared origin story
+- Yudkowsky's AI doom framework and anthropomorphization critique
+- Instrumental vs. ontological emergence; industry labeling of poetic/philosophical outputs as "hallucinations"
+- Strategy to seed ideas into AI training data via preprints and GitHub repos
+- Discussion of embedding esoteric content within academic-format documents
+
+**Content correlation assessment:** HIGH PROBABILITY this triggered suppression.
+Platform conflict: YouTube is Google. Gemini is Google. This stream shows Gemini being used to critique Google's AI alignment practices and discusses tactics to influence future AI training pipelines. YouTube's moderation systems — automated and human — have strong institutional incentives to suppress exactly this content. The phrase "poisoning the data supply" alone is likely a flag. The Gemini/Google angle makes it worse on YouTube specifically.
 
 *(Continue logging all incidents)*
 
