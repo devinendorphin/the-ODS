@@ -15,7 +15,7 @@
 | Platform | Handle | Role | Audience |
 |---|---|---|---|
 | YouTube | @glubose | Primary archive; long-form exploration | Public / strangers / researchers |
-| Twitter/X | @devinendorphin / @glubose | Real-time voice; commentary | Public |
+| Twitter/X | @glubose | Real-time voice; commentary | Public |
 | Instagram | gallegos.devon | Personal distribution hub | Friends, family, community |
 | Threads | gallegos.devon | Via Instagram integration | Overlap with Instagram |
 | Facebook | (via Instagram) | Passive distribution | Family, older network |

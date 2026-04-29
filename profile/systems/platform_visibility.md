@@ -111,7 +111,14 @@ When you notice a drop:
 
 | Date | Platform | Type of drop | Suspected cause | Detected how | Resolved |
 |---|---|---|---|---|---|
-| [unknown date] | YouTube | Live viewers: 60–100 → ~0 | Unknown — algorithmic or shadow restriction | Direct observation | Unknown |
+| [date — see stream] | YouTube Live | Peak viewers: double digits (last good stream) | Unknown — algorithmic or shadow restriction | Direct observation | Unresolved |
+| [date] | YouTube Live | Peak viewers: ~0 (all subsequent streams) | Unknown | Direct observation | Unresolved |
+
+**Reference stream (last good performance):** https://youtu.be/KO4PnEfwLc4
+Title: [fill in]
+Date: [fill in]
+Peak concurrent viewers: [double digits — fill in exact number if known]
+Topics covered: [fill in — this is important for content correlation analysis]
 
 *(Continue logging all incidents)*
 
