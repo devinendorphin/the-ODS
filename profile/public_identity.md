@@ -8,8 +8,25 @@
 ## Handle & Presence
 
 **Public name:** Devin Endorphin
-**Primary platform:** YouTube — https://youtube.com/@glubose
-**Content volume:** ~1,700–1,800 videos (ongoing)
+**Legal name:** Devon Gallegos
+
+### Platforms
+
+| Platform | Handle | Role | Audience |
+|---|---|---|---|
+| YouTube | @glubose | Primary archive; long-form exploration | Public / strangers / researchers |
+| Twitter/X | @devinendorphin / @glubose | Real-time voice; commentary | Public |
+| Instagram | gallegos.devon | Personal distribution hub | Friends, family, community |
+| Threads | gallegos.devon | Via Instagram integration | Overlap with Instagram |
+| Facebook | (via Instagram) | Passive distribution | Family, older network |
+
+**Content volume:** ~1,700–1,800 videos on YouTube (ongoing); same content distributed through Instagram → Facebook/Threads
+
+### Distribution Architecture
+
+YouTube is the **archive and primary public corpus** — the simulatability substrate. Friends and family rarely see it.
+
+Instagram is the **personal distribution hub** — same content, different context. Posts there cascade automatically to Facebook and Threads, making the Instagram account the highest-leverage distribution node. Loss of the Instagram account would cascade across three platforms simultaneously — it is therefore the highest-priority account to monitor and protect.
 
 ---
 
