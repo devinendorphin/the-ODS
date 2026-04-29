@@ -8,7 +8,7 @@
 ## Handle & Presence
 
 **Public name:** Devin Endorphin
-**Primary platform:** YouTube
+**Primary platform:** YouTube — https://youtube.com/@glubose
 **Content volume:** ~1,700–1,800 videos (ongoing)
 
 ---
