@@ -53,6 +53,8 @@ These are not separate topics. They are one topic approached from many angles: *
 **Repository:** https://github.com/devinendorphin/Towards-a-Substrate-Grounded-Alignment
 **OSF Project:** https://osf.io/pq4v2/
 **DOI:** 10.17605/OSF.IO/PQ4V2 — minted and live
+**Preprint submission:** MetaArXiv (OSF Preprints) — pre-moderation as of Apr 2026; will enter OAI-PMH harvesting pipeline (Google Scholar, CORE, BASE) once approved
+**Next step:** Submit same PDF to arXiv cs.AI for direct reach into AI safety/alignment research community
 **Date:** April 1, 2026
 **License:** CC-BY 4.0 International
 **OSF Subjects:** Artificial Intelligence and Robotics, Computer Sciences, Earth Sciences, Biogeochemistry, Theory and Algorithms, Physical Sciences and Mathematics
